@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./patrologiasyria02grafgoog_0013.png"; bbox 0 0 4142 6458; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 236 3145 1658 3278">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 236 3145 1658 3278">
+     <span class='ocr_line' id='line_1_1' title="bbox 236 3145 1658 3278; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 236 3145 747 3277; x_wconf 85' lang='lat' dir='ltr'>APHRAATIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 799 3145 1267 3278; x_wconf 86' lang='lat' dir='ltr'>SAPIENTIS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1320 3146 1658 3277; x_wconf 83' lang='lat' dir='ltr'>PERSAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 480 3425 1417 3516">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 480 3425 1417 3516">
+     <span class='ocr_line' id='line_1_2' title="bbox 480 3425 1417 3516; baseline 0.001 -2"><span class='ocrx_word' id='word_1_4' title='bbox 480 3425 920 3516; x_wconf 81' lang='lat' dir='ltr'>DEMONSTRA&#39;IIO</span> <span class='ocrx_word' id='word_1_5' title='bbox 959 3426 1097 3512; x_wconf 88' lang='lat' dir='ltr'>XXIII</span> <span class='ocrx_word' id='word_1_6' title='bbox 1136 3426 1209 3512; x_wconf 86' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1243 3427 1417 3516; x_wconf 86' lang='lat' dir='ltr'>ACINO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 752 3878 1147 3937">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 752 3878 1147 3937">
+     <span class='ocr_line' id='line_1_3' title="bbox 752 3878 1147 3937; baseline -0.005 0"><span class='ocrx_word' id='word_1_8' title='bbox 752 3880 786 3937; x_wconf 90' lang='lat' dir='ltr'>D.</span> <span class='ocrx_word' id='word_1_9' title='bbox 815 3878 970 3936; x_wconf 81' lang='lat' dir='ltr'>IOANNES</span> <span class='ocrx_word' id='word_1_10' title='bbox 997 3878 1147 3937; x_wconf 73' lang='lat' dir='ltr'>PInlsoT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2076 6452">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2076 6452">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2076 6452; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 2076 6452; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

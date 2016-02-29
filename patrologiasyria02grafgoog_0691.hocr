@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./patrologiasyria02grafgoog_0691.png"; bbox 0 0 4122 6472; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 784 1868 1160 1979">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 784 1868 1160 1979">
+     <span class='ocr_line' id='line_1_1' title="bbox 784 1868 1160 1979; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 784 1868 1160 1979; x_wconf 83' lang='lat' dir='ltr'><strong>APPENDIX</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 220 2493 1746 2597">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 220 2493 1746 2597">
+     <span class='ocr_line' id='line_1_2' title="bbox 220 2493 1746 2597; baseline -0.001 -3"><span class='ocrx_word' id='word_1_2' title='bbox 220 2497 655 2595; x_wconf 85' lang='grc' dir='ltr'><strong>ΑΠΟΛΛΩΝΙΟΥ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 703 2499 827 2596; x_wconf 88' lang='grc' dir='ltr'><strong>ΤΟΥ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 877 2497 1171 2597; x_wconf 77' lang='grc' dir='ltr'><strong>ΤΥΑΝΕΩΣ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1214 2493 1746 2595; x_wconf 83' lang='grc' dir='ltr'><strong>ΑΠΟΤΕΛΕΣΜΑΤΑ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 486 2751 1468 2829">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 486 2751 1468 2829">
+     <span class='ocr_line' id='line_1_3' title="bbox 486 2751 1468 2829; baseline -0.003 -3"><span class='ocrx_word' id='word_1_6' title='bbox 486 2752 878 2829; x_wconf 75' lang='lat' dir='ltr'><strong>APOTELESMATA</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 904 2752 1165 2827; x_wconf 84' lang='lat' dir='ltr'><strong>APOLLONH</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1195 2751 1468 2823; x_wconf 82' lang='lat' dir='ltr'><strong>TYANENSIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 721 3033 1231 3097">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 721 3033 1231 3097">
+     <span class='ocr_line' id='line_1_4' title="bbox 721 3033 1231 3097; baseline -0.004 -11"><span class='ocrx_word' id='word_1_9' title='bbox 721 3035 876 3097; x_wconf 82' lang='lat' dir='ltr'><strong>EDIDIT,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 899 3034 1057 3085; x_wconf 77' lang='lat' dir='ltr'><strong>LATINE</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1074 3033 1231 3085; x_wconf 84' lang='lat' dir='ltr'>VERTIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2066 6468">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2066 6468">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2066 6468; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 2066 6468; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
